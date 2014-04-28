@@ -50,7 +50,7 @@ function compro_credit_block_content() {
       ),
     ),
     'compro_text' => array(
-      '#markup' => '<span class="compro-credit-text">' . t(' by Commercial Progression') . '</span>',
+      '#markup' => '<span class="compro-credit-text">' . t('by Commercial Progression') . '</span>',
     ),
   );
 
