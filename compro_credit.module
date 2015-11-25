@@ -2,7 +2,7 @@
 /**
  * @file
  * Provides a block crediting CP for site design.
-*/
+ */
 
 /**
  * Implements hook_block_info().
