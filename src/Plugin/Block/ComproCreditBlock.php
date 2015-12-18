@@ -1,5 +1,12 @@
 <?php
+
+/**
+ * @file
+ * Contains \Drupal\compro_credit\Plugin\Block\ComproCreditBlock.
+ */
+
 namespace Drupal\compro_credit\Plugin\Block;
+
 use Drupal\Core\Block\BlockBase;
 use Drupal\Core\Link;
 use Drupal\Core\Url;
@@ -35,4 +42,5 @@ class ComproCreditBlock extends BlockBase {
       ),
     );
   }
+
 }
